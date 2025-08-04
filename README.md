@@ -3,33 +3,6 @@
   <a href="./README_zh.md">简体中文</a>
 </p>
 
-# Magical AI
-
-Magical AI is an intelligent IntelliJ IDEA plugin designed to enhance development efficiency through code generation, unit test automation, and AI Q&A features. The plugin integrates multiple AI models (including OpenAI, Claude, and others) and online mirror functionalities, seamlessly embedding Q&A models into the development environment.
-
-## Feature Overview
-
-### AI Interaction Features
-
-- **Code Generation**: Generates corresponding code snippets based on input.
-- **Code Interaction**: Allows quick interactions with AI Q&A by selecting code snippets in the editor.
-- **Unit Test Generation**: Automatically generates unit test cases to improve test coverage.
-- **AI Code Insertion**: Simplifies the development process with one-click insertion of AI-generated code.
-- **Custom Prompt Operations**: Flexibly configures AI prompts to suit various development needs.
-- **Multi-file Support**: Analyzes code snippets across multiple files, enhancing intelligent analysis capabilities.
-- **Multiple AI Model Integration**: Supports various AI models such as Qianfan, Claude, OpenAI, Ollama, and Azure OpenAI, providing a rich selection.
-- **Online Mirror Functionality**: Integrates online Q&A models like ChatGPT, Wenxin Yiyan, and Xunfei Xinghuo directly into the IDE for real-time access to the latest AI support.
-
-
-### Feature Page
-
-![main](images/main.png)
-
-![online](images/online.png)
-
-![code_Interaction](images/code_Interaction.png)
-
-![settings](images/settings.png)
 
 ## System Requirements
 
